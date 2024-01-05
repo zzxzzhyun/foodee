@@ -1,4 +1,4 @@
-# Foodie
+# FooDee
  
 Foodie provides recommendations for healthy food choices tailored to specific diseases.
 
